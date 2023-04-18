@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+}
+.lol1 {
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.lol2 {
+  height: 50px;
+  width: 92%;
+  background-color: grey;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding-left: 50px;
+  align-items: ;
+}
+.lol3 {
+  height: 700px;
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  padding-right: 700px;
+  font-size: 40px;
+  margin: 30px;
+}
+.xd1 {
+  background-color: grey;
+  height: 35px;
+  border-radius: 50px;
+  width: 100%;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+::placeholder {
+  color: white;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+}
